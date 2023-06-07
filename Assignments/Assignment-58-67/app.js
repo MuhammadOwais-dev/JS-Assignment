@@ -22,7 +22,7 @@ var lastName = document.getElementById("lastName")
 document.write("<br><br>Type of #lastName: " + lastName.nodeType)
 document.write("<br><br>Type of #lastName childNode: " + lastName.childNodes[0].nodeType)
 
-lastName.childNodes[0].nodeValue = "Last Name: Joe"
+lastName.childNodes[0].nodeValue = "Last Name: sahab"
 
 var mainContent = document.getElementById("main-content")
 var firstChild = mainContent.firstChild

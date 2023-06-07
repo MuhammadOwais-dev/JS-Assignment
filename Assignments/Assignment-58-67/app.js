@@ -7,13 +7,13 @@ for (var index = 0; index < renders.length; index++) {
 }
 
 var firstName = document.getElementById("first-name")
-firstName.value = "Sheheryar"
+firstName.value = "bhai"
 
 
 var lastName = document.getElementById("last-name")
-lastName.value = "Uddin"
+lastName.value = "owaiz"
 var email = document.getElementById("email")
-email.value = "sheheryark505@gmail.com"
+email.value = "bhaiowaiz87@gmail.com"
 
 // i. What is node type of element having id “form-content”.
 var formContent = document.getElementById("form-content")
